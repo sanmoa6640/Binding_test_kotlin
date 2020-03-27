@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">El Principito</string>
+    <string name="Pet_name">El Principito</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Cuando yo tenía seis años vi en un libro sobre la selva virgen que se titulaba "Historias vividas", una magnífica lámina.
+        \n\nRepresentaba una serpiente boa que se tragaba a una fiera.
+        \nEn el libro se afirmaba: "La serpiente boa se traga su presa entera, sin masticarla.
+        \nLuego ya no puede moverse y duerme durante los seis meses que dura su digestión".
+        \n\nReflexioné mucho en ese momento sobre las aventuras de la jungla y a mi vez logré trazar con
+        \nun lápiz de colores mi primer dibujo. Mi dibujo número 1 era de esta manera:
+    </string>
+    <string name="bio2">Enseñé mi obra de arte a las personas mayores y les pregunté si mi dibujo les daba miedo.
+        \n—¿por qué habría de asustar un sombrero?— me respondieron.
+        \n\nMi dibujo no representaba un sombrero. Representaba una serpiente boa que digiere un elefante.
+        \nDibujé entonces el interior de la serpiente boa a fin de que las personas mayores pudieran comprender.
+        \n\nSiempre estas personas tienen necesidad de explicaciones. Mi dibujo número 2 era así:
+    </string>
+    <string name="Whats_is_your_nickname">What is your nickname?</string>
+</resources>
